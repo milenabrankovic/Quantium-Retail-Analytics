@@ -8,3 +8,5 @@ This program contains 3 main tasks with following key analytics skills:
   1. Data preparation and customer analytics (data validation, data visualisation, data wrangling, programming)
   2. Experimentation and uplift testing (data analysis, commercial thinking, statistical testing)
   3. Analytics and commercial application (using insights from previous tasks to prepare a report for client, the Category Manager)
+
+Disclaimer: This is Data Analytics Virtual Experience Program by Quantium which is used to explore the power of data and its ability to power breakthrough possibilities for individuals, organisations and societies. All rights reserved by Quantium.
